@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:title="Trang Chủ"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+    <item
+        android:id="@+id/card"
+        android:enabled="true"
+        android:title="Trò chơi bài"
+        android:icon="@drawable/cards"
+        />
+    <item
+        android:id="@+id/team"
+        android:enabled="true"
+        android:title="Các trận đấu trước"
+        android:icon="@drawable/ic_baseline_people_alt_24"
+        />
+    <item
+        android:id="@+id/more"
+        android:enabled="true"
+        android:title="Đặc sắc"
+        android:icon="@drawable/ic_baseline_more_horiz_24"
+        />
+</menu>
+
+    <!--android:icon=  "@drawable/ic_action_recents"-->

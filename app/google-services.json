@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250247176252",
+    "project_id": "five88-kho-game-vip2021",
+    "storage_bucket": "five88-kho-game-vip2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250247176252:android:ce674d5e7995d1311e2339",
+        "android_client_info": {
+          "package_name": "io.giodude.five88"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250247176252-fgaq1t3h280eutu0v395g36hoivougbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0q5W83qYeBNgZJvB-AuB1PVGY6NIkhc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250247176252-fgaq1t3h280eutu0v395g36hoivougbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
